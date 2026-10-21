@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph "Внешняя среда"
         U[Студент]
